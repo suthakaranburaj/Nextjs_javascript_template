@@ -21,7 +21,7 @@ export function Features() {
     {
       id: 0,
       title: 'Authentication',
-      description: 'Complete user authentication system with JWT and OTP verification',
+      description: 'Complete user authentication system with JWT and OTP verification main branch changes',
       icon: Shield,
       color: 'from-green-500 to-emerald-600',
       features: [
@@ -36,7 +36,7 @@ export function Features() {
     {
       id: 1,
       title: 'Modern UI/UX',
-      description: 'Beautiful, responsive design with dark/light theme support',
+      description: 'Beautiful, responsive design with dark/light theme support and Material-UI components',
       icon: Palette,
       color: 'from-purple-500 to-pink-600',
       features: [
@@ -51,7 +51,7 @@ export function Features() {
     {
       id: 2,
       title: 'Performance',
-      description: 'Optimized for speed and scalability with Next.js 14',
+      description: 'Optimized for speed and scalability with Next.js 14 features',
       icon: Zap,
       color: 'from-blue-500 to-cyan-600',
       features: [
