@@ -60,7 +60,7 @@ export function Features() {
         'Static generation',
         'Image optimization',
         'Code splitting',
-        'Performance monitoring features branch changes'
+        'Performance monitoring main branch changes'
       ]
     },
     {
