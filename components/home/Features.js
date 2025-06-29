@@ -21,7 +21,7 @@ export function Features() {
     {
       id: 0,
       title: 'Authentication',
-      description: 'Complete user authentication system with JWT and OTP verification features for secure access',
+      description: 'Complete user authentication system with JWT and OTP verification main branch changes',
       icon: Shield,
       color: 'from-green-500 to-emerald-600',
       features: [
@@ -36,7 +36,7 @@ export function Features() {
     {
       id: 1,
       title: 'Modern UI/UX',
-      description: 'Beautiful, responsive design with dark/light theme support and Material-UI',
+      description: 'Beautiful, responsive design with dark/light theme support and Material-UI components and Material-UI',
       icon: Palette,
       color: 'from-purple-500 to-pink-600',
       features: [
